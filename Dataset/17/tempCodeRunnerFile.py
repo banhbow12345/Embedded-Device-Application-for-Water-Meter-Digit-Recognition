@@ -1,0 +1,5 @@
+cropped_image1 = image2[1:85, 0:60]
+cropped_image2 = image2[1:85, 93:162]
+cropped_image3 = image2[1:85, 180:245]
+cropped_image4 = image2[1:85, 265:337]
+cropped_image5 = image2[1:85, 350:417]
